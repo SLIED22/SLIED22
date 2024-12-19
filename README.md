@@ -9,10 +9,10 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
     <div>
         <h2>
-        <p>🌟 Mi nombre es Manuel, soy estudiante y bienvenido a mi página principal de GitHub.</p>
-        <p>💻 Conozco HTML, CSS, JavaScript y Python.</p>
-        <p>📚 Siempre estoy aprendiendo y buscando mejorar mis habilidades de desarrollo.</p>
-        <p>🚀 Creo en la tecnología como una herramienta para construir el futuro.</p>
+        <p>🌟 My name is Manuel, I am a student and welcome to my GitHub home page.</p>
+        <p>💻I know HTML, CSS, JavaScript and Python.</p>
+        <p>📚 I am always learning and looking to improve my development skills.</p>
+        <p>🚀 I believe in technology as a tool to build the future.</p>
     </div>
 </div>
 
